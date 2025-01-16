@@ -1,5 +1,5 @@
 # Google-Colab_Notebooks
-A Collection of Google Colab Notebooks for various projects
+A Collection of Google Colab Notebooks for scripts & projects
 
 | Notebook | Info
 | --- | --- |
