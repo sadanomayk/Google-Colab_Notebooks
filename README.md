@@ -10,6 +10,9 @@ A Collection of Google Colab Notebooks for scripts & projects
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Wan2_1_T2V_1_3B_DiffSynth.ipynb)  | T2V & T2I with Wan2.1_T2V_1.3B (Compute units Required)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Wan2_1_T2V_14B.ipynb)  | T2V & T2I with Wan2_1_T2V_14B (Compute units Required)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Wan2_1_I2V_14B.ipynb)  | Image to Video with Wan2_1_I2V_14B-480P (Compute units Required)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/FrameInterpolationRIFE.ipynb)  | Frame Interpolation with RIFE
+
+
 
 
 ## Support
