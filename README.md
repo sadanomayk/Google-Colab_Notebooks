@@ -12,6 +12,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Wan2_1_I2V_14B.ipynb)  | Image to Video with Wan2_1_I2V_14B-480P (Compute units Required)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/FrameInterpolationRIFE.ipynb)  | Frame Interpolation with RIFE
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/LTX_Video_Img_to_Vid.ipynb)  | Basic Image to Video with LTX-Video
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/LTX_Video_Tx_to_Vid.ipynb)  | Text to Video with LTX-Video
 
 
 
