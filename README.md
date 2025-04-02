@@ -15,7 +15,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/LTX_Video_Tx_to_Vid.ipynb)  | Text to Video with LTX-Video
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/LTX_Video_with_Start_&_End_frames.ipynb)  | Two Images to Video with LTX-Video
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Wan2_1_1_3B_T2V_Free.ipynb)  | T2V & T2I with Wan2.1_T2V_1.3B
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Wan2_1_14B_T2V_GGUF_Free.ipynb)  | T2V & T2I with Wan2.1_T2V_14B GUFF Models
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Wan2_1_14B_T2V_GGUF_Free.ipynb)  | T2V & T2I with Wan2.1_T2V_14B GGUF Models
 
 
 
