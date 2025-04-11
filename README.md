@@ -20,7 +20,8 @@ A Collection of Google Colab Notebooks for scripts & projects
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Wan2_1_14B_I2V_GGUF_&_LoRA.ipynb)  | I2V with Wan2.1_I2V_14B-480p GGUF Models & LoRA
 
 
-
+## Notebook Guide
+You can watch videos on using these notebooks [in this YouTube playlist](https://www.youtube.com/playlist?list=PLdi1sS5pbSYeA470Sb1wARR4OieCBIqMv) 
 
 ## Support
 If you find these notebooks helpful, you can support me here:  [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-orange?style=flat-square&logo=buy-me-a-coffee)](https://buymeacoffee.com/isiomo)
