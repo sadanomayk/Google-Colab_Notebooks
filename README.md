@@ -21,7 +21,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 
 
 ## Notebook Guide
-You can watch videos on using these notebooks [in this YouTube playlist](https://www.youtube.com/playlist?list=PLdi1sS5pbSYeA470Sb1wARR4OieCBIqMv) 
+Watch how these notebooks work and what they can create in [this YouTube playlist](https://www.youtube.com/playlist?list=PLdi1sS5pbSYeA470Sb1wARR4OieCBIqMv) 
 
 ## Support
 If you find these notebooks helpful, you can support me here:  [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-orange?style=flat-square&logo=buy-me-a-coffee)](https://buymeacoffee.com/isiomo)
