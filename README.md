@@ -21,6 +21,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Fast_Wan2_1_14B_I2V_480p_GGUF_&_LoRA.ipynb)  | Faster I2V with Wan2.1_I2V_14B-480p GGUF Models, LoRA & Teacache
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Hidream_fp8.ipynb)  | Hidream_fp8 for Text to Image Generation (Compute units Required)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Hidream_T2V_GGUF_Q5.ipynb)  | Hidream_GGUF_Q5 for Text to Image Generation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/FramePack.ipynb)  | FramePack_fp8 for Image to Video Generation (Compute units Required)
 
 
 ## Notebook Guide
