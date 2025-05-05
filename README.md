@@ -31,4 +31,7 @@ Watch how these notebooks work and what they can create in [this YouTube playlis
 ## Support
 If you find these notebooks helpful, you can support me here:  [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-orange?style=flat-square&logo=buy-me-a-coffee)](https://buymeacoffee.com/isiomo)
 
+## Contributing
+I currently don't have the time to review pull requests. If you find any bugs or run into issues, please report them in the Issues section. Thanks!
+
 
