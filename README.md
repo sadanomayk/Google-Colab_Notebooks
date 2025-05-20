@@ -24,6 +24,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/FramePack.ipynb)  | FramePack_fp8 for Image to Video Generation (Compute units Required)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Flux_Upscaler.ipynb)  | Upscale Images & Videos with Flux Upscaler
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ICEdit.ipynb)  | Use Prompts to Edit Images with In-Context Edit
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/LTXV_0_9_7_13B_Distilled_Image_to_Video.ipynb)  | LTXV-0.9.7-13B_Distilled_GGUF_Q6 for Image to Video Generation
 
 
 ## Notebook Guide
